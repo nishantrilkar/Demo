@@ -1,0 +1,38 @@
+body{
+  background-color: skyblue;
+}
+.bottom-container{
+  margin-top: 60px;
+  background-color: green;
+  text-align: center;
+  width: 100%;
+  height: 40px;
+}
+
+h1{
+  color:darkblue;
+  text-align: center;
+}
+
+hr {
+  border-color: green;
+  border-width: 1px;
+  border-style: none;
+  border-top-style: dashed;
+  margin-top: 25px;
+  width: 100%;
+}
+
+.TextAddress{
+  float: left;
+  margin-left: 50px;
+  padding-right: 280px;
+}
+.feedbackblock{
+  text-align: center;
+}
+
+h2{
+  color:darkblue;
+  text-align: center;
+}
